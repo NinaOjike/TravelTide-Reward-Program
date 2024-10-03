@@ -1,4 +1,4 @@
-# TravelTide-Reward-Program: 
+# TravelTide-Reward-Program 
 *Assigning perks based on customer behaviour*
 
 
