@@ -2,6 +2,8 @@
 *Assigning perks based on customer behaviour*
 
 
+
+
 Each customer is different from the next, hence a single approach to dealing with different customers is a futile effort.
 In today’s competitive business environment, retaining customers is as critical as acquiring new ones.
 Businesses often deploy customer loyalty programs to reward repeat customers and encourage continued patronage.
