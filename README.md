@@ -1,5 +1,5 @@
 # TravelTide-Reward-Program 
-*Assigning perks based on customer behaviour*
+*Assigning perks based on tailored customer behaviour and experience*
 
 
 
