@@ -8,8 +8,8 @@ Each customer is different from the next, hence a single approach to dealing wit
 In today’s competitive business environment, retaining customers is as critical as acquiring new ones.
 Businesses often deploy customer loyalty programs to reward repeat customers and encourage continued patronage.
 
-This project aims to analyze important customers behaviours, define segmentations that are meaningful
-and aligned with business objectives, and motivate customers to engage more frequently with the business.
+This project aims to analyze important customers behaviours, Segment customers based on meaningful experiences and behaviors 
+that aligned with business objectives, and motivate customers to engage more frequently with the business through rewards that meets their needs.
 
 We comprehensively reviewed and analyzed our users' demographics and engagement patterns. We segmented our customers into 5 groups 
 via RFM Modeling (the recency of users' bookings (Flight and/or Hotel), Frequency of trips, spendings for the period under review) 
